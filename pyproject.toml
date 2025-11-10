@@ -30,8 +30,8 @@ keywords = ["LIGO", "gravitational waves", "tools"]
 dynamic = ["version"]
 
 [project.urls]
-Homepage = "https://github.com/UCB-stat-159-f25/hw3-samileong"
-Issues = "https://github.com/UCB-stat-159-f25/hw3-samileong/issues"
+Homepage = "https://github.com/UCB-stat-159-f25/hw3-jpchiu26"
+Issues = "https://github.com/UCB-stat-159-f25/hw3-jpchiu26/issues"
 
 [tool.setuptools]
 packages = ["ligotools"]
